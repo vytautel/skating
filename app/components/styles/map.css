@@ -1,0 +1,68 @@
+#card{
+  width: 160px;
+  border: 1px solid black;
+  background-color: #c6d3eb;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12),
+    0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  font-size: 18px;
+  margin-right: auto;
+  margin-left: 30px;
+
+  position: relative;
+  z-index: 1;
+}
+
+#card:hover{
+  background-color: #b1c4e7;
+  box-shadow: 2px 5px 0px 2px rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12),
+  0 3px 1px -2px rgba(0, 0, 0, 0.2);
+}
+
+#marker:hover{
+    transform: scale(1.5);
+}
+
+.text{
+    width: 160px;
+}
+.text p{
+  font-size: 12pt;
+}
+.hide{
+    visibility: hidden;
+}
+.show{
+    visibility: visible;
+}
+
+#image{
+  max-width: 158px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.map{
+    height: 580px;
+    width: 90%;
+}
+
+.map a:hover, .selectedItemInfoCard a:hover{
+  color: rgba(175, 12, 0, 0.651);
+}
+
+.selectedItemInfoCard{  
+  width: 90%;
+  border: 1px solid black;
+  background-color: #c6d3eb;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12),
+    0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  font-size: 18px;
+  margin: auto auto 20px auto;
+  max-width: 1000px;
+}
+
+#selectedCardPhoto {
+  margin: 10px;
+  margin-bottom: 0;
+  float: right;
+}

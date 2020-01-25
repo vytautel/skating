@@ -1,0 +1,47 @@
+{
+  "app.containers.GamePage.header": "Susipažinkite su čiuožimu žaisdami!",
+  "app.containers.GamePage.aboutGame": "Žaidimo tikslas - teisingai sujungti čiuožimo elementus su jų pavadinimais. Teisingai sujungus visas korteles, galėsite bandyti iš naujo jau su kitais čiuožimo elementais.",
+
+  "app.containers.HomePage.header": "Dailusis čiuožimas - tai sporto šaka, reikalaujanti stipraus fizinio pasirengimo. Čiuožiant reikalinga ne tik ištvermė, bet ir tikslumas, lankstumas, plastika bei jėga.",
+  "app.containers.HomePage.header2": " Čiuožimas toli gražu nėra vien tik sportas, tai - kartu ir menas. Čiuožėjai turi suprasti ir pajausti muziką, perteikti emocijas, komunikuoti su žiūrovais.",
+
+  "app.containers.NotFoundPage.header": "Puslapis nerastas!",
+
+  "app.containers.RinksPage.header": "Ledo arenas Lietuvoje galima rasti:",
+  "app.containers.RinksPage.legend": "Tik sezono metu (2-6 mėnesius žiemos metu) veikiančios arenos žemėlapyje pažymėtos violetine spalva. Ištisus metus čiuožinėti galima raudonu smeigtuku pažymėtose ledo arenose.",
+  "app.containers.ShopsPage.header": "Čiuožimo reikmenų parduotuves Lietuvoje galima rasti:",
+
+  "app.containers.TipsPage.source1": "Labai išsami amerikiečių sukurta svetainė, kurioje galima rasti daugiau kaip 1000 mokomųjų video, kuriuose kalba 33 skirtingi treneriai. Nors ši svetainė mokama, tačiau užsiregistravus naujienlaiškiui galima rasti ir nemažai nemokamos naudingos informacijos.",
+  "app.containers.TipsPage.source2": "Išsami per 1000 video talpinanti svetainė, sukurta kanadiečių. Už kiekvieną video mokama atskirai arba galima užsisakyti narystę, tačiau čia galima rasti ir nemokamų filmukų. Juos patogu pasiekti surikiavus sąrašą pagal kainą nuo žemiausios iki didžiausios.",
+  "app.containers.TipsPage.source3": "Šokių ant ledo atstovai Ksenija ir Olegas savo Youtube kanale puikiai paaiškina ir pademonstruoja visus čiuožimo žingsnius. Jų filmukuose matyti ne tik atliekamas žingsnis, bet ir smulkus komentaras, kaip teisingai tą žingsnį daryti. Taip pat kanale galima rasti ir suktukų bei viengubų šuolių pavyzdžių.",
+
+  "app.components.layout.rinks": "Ledo arenos",
+  "app.components.layout.shops": "Parduotuvės",
+  "app.components.layout.home": "Dailusis čiuožimas",
+  "app.components.layout.tips": "Patarimai",
+  "app.components.layout.game": "Žaidimas",
+  "app.components.layout.lang": "Kalba:",
+  "app.components.layout.author": "Puslapio autorė: ",
+  "app.components.layout.map.logotype": "Logotipas",
+
+  "app.components.layout.map.rink": "Arena",
+  "app.components.layout.map.shop": "Parduotuvė",
+
+  "app.components.layout.map.timetableAndInfo": "Tvarkaraštis ir informacija:",
+
+  "app.components.layout.game.logo": "logotipas",
+  "app.components.layout.info.singles": "Pati populiariausia čiuožimo forma. Kitaip dar vadinama vienetais. Varžybose skiriamos moterų ir vyrų kategorijos. Atliekami elementai: žingsniai, šuoliai, suktukai. Čiuožėjai atlieka trumpąją bei laisvąją programas. Todėl varžybos paprastai trunka bent dvi dienas, nes sportininkai negali tą pačią dieną čiuožti abiejų programų. Programos turi atitikti griežtus reikalavimus: turi būti atitinkamas šuolių, suktukų kiekis, taip pat privalomas ir vienas žingsnių takelis, kuris turi būti atliekamas išnaudojant visą arenos plotą.",
+  "app.components.layout.info.singlesHeader": "Pavienis (Singles)",
+  "app.components.layout.info.pairs": "Vyras ir moteris čiuožia poroje sinchroniškai. Atliekami šuoliai, suktukai, žingsniai, pakėlimai, taip pat ir specifiniai šios rungties elementai (pavyzdžiui, poriniai suktukai, metimai). Čiuožiamos dvi programos: trumpoji ir laisvoji. Ši čiuožimo šaka laikoma sunkiausia, nes abu partneriai turi mokėti gerai čiuožti ne tik atskirai, bet ir atlikti sudėtingus elementus kartu, sinchroniškai.",
+  "app.components.layout.info.pairsHeader": "Porinis (Pairs)",
+  "app.components.layout.info.dance": "Ši čiuožimo rūšis primena pramoginius šokius, tik šokama ant ledo. Čiuožėjai turi būti puikiai įvaldę žingsnius, briaunų pasisukimus, o ypač - tvizlus (sukinius), nes jie yra privalomas šokių ant ledo elementas ir vertinamas tvizlų atlikimo poroje sinchroniškumas. Taip pat, panašiai kaip ir poriniame čiuožime, privalomasis elementas yra ir pakėlimai. Kaip ir šokiuose, yra įvairios muzikos bei šokio rūšys: tango, fokstrotas, valsas, flamenko ir kiti.",
+  "app.components.layout.info.danceHeader": "Šokių ant ledo (Ice Dance)",
+  "app.components.layout.info.synchro": "Komandą sudaro 12 - 20 čiuožėjų (vienoje komandoje gali čiuožti ir vyrai, ir moterys). Sinhrono komandos žiūrovus žavi sinchroniškai atliekamu įvairių figūrų suformavimu. Nors ši čiuožimo rūšis kol kas dar nėra įtraukta į Olimpines žiemos žaidynes, ji yra nemažiau sudėtinga nei kitos čiuožimo rūšys. Sinchroniniame čiuožime tiesiog nėra vietos klaidoms, nes viena smulkmena gali įtakoti visą komandą, todėl šios rūšies sportininkai daug treniruojasi ir repetuoja, jog galėtų atlikti programas tvarkingai, be klaidų. Sinchroninio čiuožimo pasirodymai populiarūs įvairiuose šou, pavyzdžiui, kalėdiniuose, atidarymų, renginių, švenčių, pramoginiuose.",
+  "app.components.layout.info.synchroHeader": "Sinchroninis (Synchronized skating)",
+  "app.components.layout.info.branches": "Dailusis čiuožimas yra skirstomas į keletą rūšių:",
+
+  "app.components.layout.game.continue": "Tęsti žaidimą",
+  "app.components.layout.game.correct": "Viskas teisingai sujungta!",
+  "app.components.layout.game.correctCount": "Teisingai sujungta: ",
+  "app.components.layout.game.mistakestCount": "Klaidos: "
+}

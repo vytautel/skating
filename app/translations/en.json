@@ -1,0 +1,47 @@
+{
+  "app.containers.GamePage.header": "Get acquainted with skating through game!",
+  "app.containers.GamePage.aboutGame": "The goal of the game is to match all elements to their names correctly. If matched correctly, you might try your luck again with different figure skating elements.",
+
+  "app.containers.HomePage.header": "Figure skating is a sport that requires strong physical preparation and is very demanding in general. Skaters must not only have stamina but also precision, flexibility and strength.",
+  "app.containers.HomePage.header2": "Skating is not only sport but it is also an art. Skaters have to feel music, convey emotions, communicate with spectators.",
+
+  "app.containers.NotFoundPage.header": "Page not found!",
+
+  "app.containers.RinksPage.header": "Ice rinks in Lithuania can be found:",
+  "app.containers.RinksPage.legend": "Seasonal rinks (opened only 2-6 months on winter time) are marked with purple marker in the map. All year opened ice rinks are marked red.",
+  "app.containers.ShopsPage.header": "Skating equipment shops in Lithuania can be found:",
+
+  "app.containers.TipsPage.source1": "In this american website you can find over 1000 educational videos in which 33 different coaches explain how they teach certain skating moves. Even though this website is paid you can still find some free videos or register for a newsletter to get notifications about recently uploaded free information.",
+  "app.containers.TipsPage.source2": "This is very informative figure skating website which is made and maintaned by coaches from Canada. You have to pay for each video or you can apply for membership. Many free videos can also be found on this website. You can reach them easily after sorting the list from lowest to highest priced videos. ",
+  "app.containers.TipsPage.source3": "Ice dancers Kseniya and Oleg have many greatly explained videos about figure skating steps on their Youtube channel. In their videos steps are clearly visible and explained in detail. You can also find several videos about basic spins and single jumps. ",
+
+  "app.components.layout.rinks": "Ice Rinks",
+  "app.components.layout.shops": "Shops",
+  "app.components.layout.home": "Figure skating",
+  "app.components.layout.tips": "Tips",
+  "app.components.layout.game": "Game",
+  "app.components.layout.lang": "Language:",
+  "app.components.layout.author": "Page author: ",
+  "app.components.layout.map.logotype": "logotype",
+
+  "app.components.layout.map.rink": "Rink",
+  "app.components.layout.map.shop": "Shop",
+
+  "app.components.layout.map.timetableAndInfo": "Timetable and information:",
+
+  "app.components.layout.game.logo": "logotype",
+  "app.components.layout.info.singles": "The most popular type of figure skating. In competitions, there are singles Ladies and Men categories. Skater performance includes: steps, jumps and spins. Skaters perform two programs: short and free skating. Thus, competition usually lasts longer than one day because athletes cannot skate both their programs the same day. Programs must correspond to strict rules. There must be certain amount of jumps, spins and there also must be one step sequence fully utilizing the ice surface.",
+  "app.components.layout.info.singlesHeader": "Single skating",
+  "app.components.layout.info.pairs": "Man and woman skate together in pairs synchronously. Just like in singles skating, there are steps, jumps and spins but there also are specific elements for this branch of skating (like pair spins, lifts, throws). Athletes skate two programs: short and free. Pair skating is considered to be the hardest type of figure skating because it is not only very dangerous but it is also needed for both partners to have great skating skills, control and confidence not only independently but also when skating together.",
+  "app.components.layout.info.pairsHeader": "Pair skating",
+  "app.components.layout.info.dance": "This type of skating reminds ballroom dancing. Ice dancers often have very good control of edges and are able to perform a great variety of different steps on ice. The most important element in ice dance program is side by side synchronous twizzles. Also, just like in pair skating, ice dancers perform many difficult lifts. There are many kinds of styles in ice dancing: tango, foxtrot, waltz, flamenco and others.",
+  "app.components.layout.info.danceHeader": "Ice Dance",
+  "app.components.layout.info.synchro": "Team consists of 12 -20 skaters among whose there might be woman as well as man. Synchro skating teams move like a unit and form various geometric shapes, thus fascinating viewers. Even though this branch of skating is not included in Winter Olympic games, it is difficult just like the other types of skating. In synchronized ice skating there is no room for errors because one small mistake can make a whole team fall apart and mess up a whole performance. Synchronized skating shows are popular during various events and especially in Christmas shows. ",
+  "app.components.layout.info.synchroHeader": "Synchronized skating",
+  "app.components.layout.info.branches": "Figure skating branches:",
+
+  "app.components.layout.game.continue": "Continue game",
+  "app.components.layout.game.correct": "All cards were matched correctly!",
+  "app.components.layout.game.correctCount": "Matched correctly: ",
+  "app.components.layout.game.mistakestCount": "Mistakes: "
+}
