@@ -138,14 +138,13 @@ export default function Game(props) {
             className={`card centerFlex ${getClass(gifId)}`}
           >
             <img
+              className="game_photo"
               src={item[1]}
               alt={txtCards[index][1]}
-              width="300"
-              height="180"
             />
           </div>
           <div
-            className={`card centerFlex ${getClass(txtId)}`}
+            className={`card text_card centerFlex ${getClass(txtId)}`}
             onClick={() => setTxtPressed(txtId)}
             onKeyPress={() => setTxtPressed(txtId)}
             role="button"

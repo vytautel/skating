@@ -17,7 +17,7 @@ export default function VideoElement(props) {
         controls
         playing={typeof props.play !== 'undefined'}
         volume={0}
-        style={{ display: 'block', margin: 'auto' }}
+        style={{ display: 'block', margin: 'auto', maxWidth: '95%' }}
         height={props.height}
         width={props.width}
       />

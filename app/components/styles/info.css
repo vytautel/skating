@@ -44,8 +44,29 @@ max-width: 1000px;
 }
 
 #cardBody {
-  margin: 5px 10px 20px 20px;
+  margin: 0px 10px 20px 20px;
   font-family: Georgia, Times, 'Times New Roman', serif;
   line-height: 1.5em;
   text-align: left;
 }
+
+
+@media only screen and (max-width: 710px) {
+ 
+  #videoPlayer {
+    margin: 10px;
+    margin-top: 0px;
+    float: none;
+  }
+  h4{
+    margin-bottom: 1px;
+  }
+
+  #learning_card{
+    max-width: 95%;
+    min-width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  }

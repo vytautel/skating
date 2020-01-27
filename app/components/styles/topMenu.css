@@ -38,3 +38,13 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+@media only screen and (max-width: 710px) {
+  li {
+    width: 100%;
+    border-bottom: 0.1pt solid rgb(63, 4, 63);
+  }
+  li:first-child {
+    border-top: 0.1pt solid rgb(63, 4, 63);
+  }
+}
