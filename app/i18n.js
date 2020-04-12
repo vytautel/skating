@@ -17,7 +17,7 @@ const ltTranslationMessages = require('./translations/lt.json');
 addLocaleData(enLocaleData);
 addLocaleData(ltLocaleData);
 
-const DEFAULT_LOCALE = localStorage.locale || 'lt';
+const DEFAULT_LOCALE = localStorage.locale || 'en';
 
 // prettier-ignore
 const appLocales = [
